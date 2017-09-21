@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="128a0e14-4d0a-4269-b8d3-b1cbeb516a3a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/49种牌.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/cardTab.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/skillTab.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Unity/Temp/UnityTempFile-8b702a63d3198426c88922033cdcd412" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Unity/Temp/UnityTempFile-b8be67c5294d0423283334a24f3ce1db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Unity/Temp/UnityTempFile-c22591b8c95284941a6d98d588d2d5d0" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unity/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterPath="$PROJECT_DIR$/Unity/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unity/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb" afterPath="$PROJECT_DIR$/Unity/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unity/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll" afterPath="$PROJECT_DIR$/Unity/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unity/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb" afterPath="$PROJECT_DIR$/Unity/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unity/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Unity/Library/assetDatabase3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unity/Library/expandedItems" afterPath="$PROJECT_DIR$/Unity/Library/expandedItems" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unity/Library/metadata/00/0000000000000000c000000000000000" afterPath="$PROJECT_DIR$/Unity/Library/metadata/00/0000000000000000c000000000000000" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Client-Server/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Client-Server/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client-Server.sln.DotSettings.user" afterPath="$PROJECT_DIR$/Client-Server.sln.DotSettings.user" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unity/Library/CurrentLayout.dwlt" afterPath="$PROJECT_DIR$/Unity/Library/CurrentLayout.dwlt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unity/Library/EditorInstance.json" afterPath="$PROJECT_DIR$/Unity/Library/EditorInstance.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unity/ProjectSettings/EditorSettings.asset" afterPath="$PROJECT_DIR$/Unity/ProjectSettings/EditorSettings.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unity/Unity.Editor.csproj" afterPath="$PROJECT_DIR$/Unity/Unity.Editor.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unity/Unity.Plugins.csproj" afterPath="$PROJECT_DIR$/Unity/Unity.Plugins.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unity/Unity.csproj" afterPath="$PROJECT_DIR$/Unity/Unity.csproj" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,8 +29,118 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LzmaTools.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Unity/Assets/Plugins/Tools/LzmaTools.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="20" column="28" lean-forward="false" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+              <folding>
+                <marker date="1505974792000" expanded="false" signature="6:161" ph="..." />
+                <marker date="1505974792000" expanded="true" signature="179:3857" ph="{...}" />
+                <marker date="1505974792000" expanded="true" signature="205:3854" ph="{...}" />
+                <marker date="1505974792000" expanded="true" signature="230:238" ph="{...}" />
+                <marker date="1505974792000" expanded="true" signature="284:618" ph="/// Decompresses the lzma. ... " />
+                <marker date="1505974792000" expanded="true" signature="716:3431" ph="{...}" />
+                <marker date="1505974792000" expanded="true" signature="1527:1590" ph="{...}" />
+                <marker date="1505974792000" expanded="true" signature="1938:3309" ph="{...}" />
+                <marker date="1505974792000" expanded="true" signature="2179:3210" ph="{...}" />
+                <marker date="1505974792000" expanded="true" signature="2240:2299" ph="{...}" />
+                <marker date="1505974792000" expanded="true" signature="2812:2909" ph="{...}" />
+                <marker date="1505974792000" expanded="true" signature="3011:3065" ph="{...}" />
+                <marker date="1505974792000" expanded="true" signature="3332:3411" ph="{...}" />
+                <marker date="1505974792000" expanded="true" signature="3435:3506" ph="/// decompress to corresponding folder ... " />
+                <marker date="1505974792000" expanded="true" signature="3591:3851" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LZMPMenu.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Unity/Assets/Editor/LZMPMenu.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <marker date="1505975582000" expanded="false" signature="6:194" ph="..." />
+                <marker date="1505975582000" expanded="true" signature="232:7287" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="620:825" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="889:1003" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="1021:2072" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="1225:1337" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="1405:1752" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="1524:1576" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="1631:1704" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="1792:1880" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="1923:1971" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="2016:2066" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="2075:2189" ph="/// collect assets to resourcesDic ... " />
+                <marker date="1505975582000" expanded="true" signature="2246:2968" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="2332:2962" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="2497:2952" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="2587:2653" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="2714:2938" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="2972:3027" ph="/// Compresses the lzma. ... " />
+                <marker date="1505975582000" expanded="true" signature="3066:5859" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="3132:3172" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="3366:3442" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="3455:5767" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="3498:3539" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="3962:4825" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="4101:4810" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="5169:5270" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="5797:5853" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="5866:5927" ph="/// decompress lzma file ... " />
+                <marker date="1505975582000" expanded="true" signature="5968:6889" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="6343:6380" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="6430:6767" ph="/* yield return null; ... */" />
+                <marker date="1505975582000" expanded="true" signature="6896:6946" ph="/// call back ... " />
+                <marker date="1505975582000" expanded="true" signature="7001:7282" ph="{...}" />
+                <marker date="1505975582000" expanded="true" signature="7147:7276" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Init.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Unity/Assets/Scripts/Init.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <marker date="1505969924000" expanded="false" signature="6:251" ph="..." />
+                <marker date="1505969924000" expanded="true" signature="268:2532" ph="{...}" />
+                <marker date="1505969924000" expanded="true" signature="305:2530" ph="{...}" />
+                <marker date="1505969924000" expanded="true" signature="566:2196" ph="{...}" />
+                <marker date="1505969924000" expanded="true" signature="577:2130" ph="{...}" />
+                <marker date="1505969924000" expanded="true" signature="632:684" ph="{...}" />
+                <marker date="1505969924000" expanded="true" signature="2153:2192" ph="{...}" />
+                <marker date="1505969924000" expanded="true" signature="2221:2286" ph="{...}" />
+                <marker date="1505969924000" expanded="true" signature="2315:2388" ph="{...}" />
+                <marker date="1505969924000" expanded="true" signature="2424:2527" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Unity/Assets/Editor/LZMPMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Assets/Scripts/Init.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Assets/Plugins/Tools/LzmaTools.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Unity/Assets/Tools/LzmaTools.cs" />
+        <option value="$PROJECT_DIR$/Unity/Assets/Editor/LZMPMenu.cs" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -24,8 +149,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="130" />
-    <option name="y" value="78" />
+    <option name="x" value="145" />
+    <option name="y" value="53" />
     <option name="width" value="1761" />
     <option name="height" value="777" />
   </component>
@@ -56,6 +181,86 @@
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Client-Server (9 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Client" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Client-Server (9 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Client" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Unity.Editor" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Client-Server (9 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Client" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Unity.Editor" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Editor" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Client-Server (9 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Client" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Unity.Editor" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
@@ -65,6 +270,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeInspectionSettingsId" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -161,12 +367,13 @@
       <updated>1505972181279</updated>
       <workItem from="1505972182676" duration="48000" />
       <workItem from="1505972241865" duration="226000" />
-      <workItem from="1505972629573" duration="501000" />
+      <workItem from="1505972629573" duration="2850000" />
+      <workItem from="1505976601534" duration="62000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="775000" />
+    <option name="totallyTimeSpent" value="3186000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -178,7 +385,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="130" y="78" width="1761" height="777" extended-state="0" />
+    <frame x="145" y="53" width="1761" height="777" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -188,7 +395,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25887144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2617801" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -212,5 +419,180 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Unity/Assets/Plugins/Tools/LzmaTools.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505974792000" expanded="false" signature="6:161" ph="..." />
+            <marker date="1505974792000" expanded="true" signature="179:3857" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="205:3854" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="230:238" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="284:618" ph="/// Decompresses the lzma. ... " />
+            <marker date="1505974792000" expanded="true" signature="716:3431" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="1527:1590" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="1938:3309" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="2179:3210" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="2240:2299" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="2812:2909" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="3011:3065" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="3332:3411" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="3435:3506" ph="/// decompress to corresponding folder ... " />
+            <marker date="1505974792000" expanded="true" signature="3591:3851" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Assets/Editor/LZMPMenu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding>
+            <marker date="1505975582000" expanded="false" signature="6:194" ph="..." />
+            <marker date="1505975582000" expanded="true" signature="232:7287" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="620:825" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="889:1003" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="1021:2072" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="1225:1337" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="1405:1752" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="1524:1576" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="1631:1704" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="1792:1880" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="1923:1971" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="2016:2066" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="2075:2189" ph="/// collect assets to resourcesDic ... " />
+            <marker date="1505975582000" expanded="true" signature="2246:2968" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="2332:2962" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="2497:2952" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="2587:2653" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="2714:2938" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="2972:3027" ph="/// Compresses the lzma. ... " />
+            <marker date="1505975582000" expanded="true" signature="3066:5859" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="3132:3172" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="3366:3442" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="3455:5767" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="3498:3539" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="3962:4825" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="4101:4810" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="5169:5270" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="5797:5853" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="5866:5927" ph="/// decompress lzma file ... " />
+            <marker date="1505975582000" expanded="true" signature="5968:6889" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="6343:6380" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="6430:6767" ph="/* yield return null; ... */" />
+            <marker date="1505975582000" expanded="true" signature="6896:6946" ph="/// call back ... " />
+            <marker date="1505975582000" expanded="true" signature="7001:7282" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="7147:7276" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Assets/Tools/LzmaTools.cs" />
+    <entry file="file://$PROJECT_DIR$/Unity/Assets/Scripts/7zip/Common.meta" />
+    <entry file="file://$PROJECT_DIR$/Unity/Assets/Scripts/7zip/ICoder.cs" />
+    <entry file="file://$PROJECT_DIR$/Unity/Assets/Plugins/Tools/LzmaTools.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="28" lean-forward="false" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <marker date="1505974792000" expanded="false" signature="6:161" ph="..." />
+            <marker date="1505974792000" expanded="true" signature="179:3857" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="205:3854" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="230:238" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="284:618" ph="/// Decompresses the lzma. ... " />
+            <marker date="1505974792000" expanded="true" signature="716:3431" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="1527:1590" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="1938:3309" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="2179:3210" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="2240:2299" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="2812:2909" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="3011:3065" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="3332:3411" ph="{...}" />
+            <marker date="1505974792000" expanded="true" signature="3435:3506" ph="/// decompress to corresponding folder ... " />
+            <marker date="1505974792000" expanded="true" signature="3591:3851" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Assets/Scripts/Init.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1505969924000" expanded="false" signature="6:251" ph="..." />
+            <marker date="1505969924000" expanded="true" signature="268:2532" ph="{...}" />
+            <marker date="1505969924000" expanded="true" signature="305:2530" ph="{...}" />
+            <marker date="1505969924000" expanded="true" signature="566:2196" ph="{...}" />
+            <marker date="1505969924000" expanded="true" signature="577:2130" ph="{...}" />
+            <marker date="1505969924000" expanded="true" signature="632:684" ph="{...}" />
+            <marker date="1505969924000" expanded="true" signature="2153:2192" ph="{...}" />
+            <marker date="1505969924000" expanded="true" signature="2221:2286" ph="{...}" />
+            <marker date="1505969924000" expanded="true" signature="2315:2388" ph="{...}" />
+            <marker date="1505969924000" expanded="true" signature="2424:2527" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Assets/Editor/LZMPMenu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <marker date="1505975582000" expanded="false" signature="6:194" ph="..." />
+            <marker date="1505975582000" expanded="true" signature="232:7287" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="620:825" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="889:1003" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="1021:2072" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="1225:1337" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="1405:1752" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="1524:1576" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="1631:1704" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="1792:1880" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="1923:1971" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="2016:2066" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="2075:2189" ph="/// collect assets to resourcesDic ... " />
+            <marker date="1505975582000" expanded="true" signature="2246:2968" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="2332:2962" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="2497:2952" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="2587:2653" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="2714:2938" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="2972:3027" ph="/// Compresses the lzma. ... " />
+            <marker date="1505975582000" expanded="true" signature="3066:5859" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="3132:3172" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="3366:3442" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="3455:5767" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="3498:3539" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="3962:4825" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="4101:4810" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="5169:5270" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="5797:5853" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="5866:5927" ph="/// decompress lzma file ... " />
+            <marker date="1505975582000" expanded="true" signature="5968:6889" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="6343:6380" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="6430:6767" ph="/* yield return null; ... */" />
+            <marker date="1505975582000" expanded="true" signature="6896:6946" ph="/// call back ... " />
+            <marker date="1505975582000" expanded="true" signature="7001:7282" ph="{...}" />
+            <marker date="1505975582000" expanded="true" signature="7147:7276" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
