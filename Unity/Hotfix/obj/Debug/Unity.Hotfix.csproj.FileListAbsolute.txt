@@ -1,0 +1,6 @@
+/Users/zys/U3DWork/框架/Egametang/Unity/Temp/UnityVS_bin/Debug/Hotfix.dll
+/Users/zys/U3DWork/框架/Egametang/Unity/Temp/UnityVS_bin/Debug/Hotfix.pdb
+/Users/zys/U3DWork/框架/Egametang/Unity/Hotfix/obj/Debug/Unity.Hotfix.csprojResolveAssemblyReference.cache
+/Users/zys/U3DWork/框架/Egametang/Unity/Hotfix/obj/Debug/Unity.Hotfix.csproj.CoreCompileInputs.cache
+/Users/zys/U3DWork/框架/Egametang/Unity/Hotfix/obj/Debug/Hotfix.dll
+/Users/zys/U3DWork/框架/Egametang/Unity/Hotfix/obj/Debug/Hotfix.pdb

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../Server/App" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Server/Base" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Server/Hotfix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Server/Model" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Server/ThirdParty/ENet/ENet.vcxproj" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Unity" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Server/App/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Server/Base/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Server/Hotfix/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Server/Model/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Temp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Unity/Hotfix/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Unity/Temp/UnityVS_bin/Debug" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Unity/Temp/UnityVS_obj/Debug" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

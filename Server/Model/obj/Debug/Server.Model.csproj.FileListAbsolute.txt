@@ -1,0 +1,12 @@
+/Users/zys/U3DWork/框架/Egametang/Bin/Model.dll
+/Users/zys/U3DWork/框架/Egametang/Bin/Model.pdb
+/Users/zys/U3DWork/框架/Egametang/Server/Model/obj/Debug/Server.Model.csprojResolveAssemblyReference.cache
+/Users/zys/U3DWork/框架/Egametang/Server/Model/obj/Debug/Server.Model.csproj.CoreCompileInputs.cache
+/Users/zys/U3DWork/框架/Egametang/Server/Model/obj/Debug/Model.dll
+/Users/zys/U3DWork/框架/Egametang/Server/Model/obj/Debug/Model.pdb
+/Users/zys/U3DWork/GitWork/EgameDemo/Bin/Model.dll
+/Users/zys/U3DWork/GitWork/EgameDemo/Bin/Model.pdb
+/Users/zys/U3DWork/GitWork/EgameDemo/Server/Model/obj/Debug/Server.Model.csprojResolveAssemblyReference.cache
+/Users/zys/U3DWork/GitWork/EgameDemo/Server/Model/obj/Debug/Server.Model.csproj.CoreCompileInputs.cache
+/Users/zys/U3DWork/GitWork/EgameDemo/Server/Model/obj/Debug/Model.dll
+/Users/zys/U3DWork/GitWork/EgameDemo/Server/Model/obj/Debug/Model.pdb

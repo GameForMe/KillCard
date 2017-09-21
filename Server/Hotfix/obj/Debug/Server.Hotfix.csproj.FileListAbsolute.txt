@@ -1,0 +1,12 @@
+/Users/zys/U3DWork/框架/Egametang/Bin/Hotfix.dll
+/Users/zys/U3DWork/框架/Egametang/Bin/Hotfix.pdb
+/Users/zys/U3DWork/框架/Egametang/Server/Hotfix/obj/Debug/Server.Hotfix.csprojResolveAssemblyReference.cache
+/Users/zys/U3DWork/框架/Egametang/Server/Hotfix/obj/Debug/Server.Hotfix.csproj.CoreCompileInputs.cache
+/Users/zys/U3DWork/框架/Egametang/Server/Hotfix/obj/Debug/Hotfix.dll
+/Users/zys/U3DWork/框架/Egametang/Server/Hotfix/obj/Debug/Hotfix.pdb
+/Users/zys/U3DWork/GitWork/EgameDemo/Bin/Hotfix.dll
+/Users/zys/U3DWork/GitWork/EgameDemo/Bin/Hotfix.pdb
+/Users/zys/U3DWork/GitWork/EgameDemo/Server/Hotfix/obj/Debug/Server.Hotfix.csprojResolveAssemblyReference.cache
+/Users/zys/U3DWork/GitWork/EgameDemo/Server/Hotfix/obj/Debug/Server.Hotfix.csproj.CoreCompileInputs.cache
+/Users/zys/U3DWork/GitWork/EgameDemo/Server/Hotfix/obj/Debug/Hotfix.dll
+/Users/zys/U3DWork/GitWork/EgameDemo/Server/Hotfix/obj/Debug/Hotfix.pdb

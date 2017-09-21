@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2418196853
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: uilogin.unity3d
+      Dependencies: {}

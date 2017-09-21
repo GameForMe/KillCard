@@ -1,0 +1,1 @@
+{"Version":0,"FileVersionInfos":[{"File":"StreamingAssets","MD5":"b4a1005d374dd3efcd6c9c33ffb5d19c","Size":935},{"File":"Version.txt","MD5":"c27790eebd61a903f72d01cb614d331f","Size":227},{"File":"uilogin.unity3d","MD5":"e62474c8c7403afbfce3509f69acbf6b","Size":8739}],"Parent":null,"Id":98691769499649}
