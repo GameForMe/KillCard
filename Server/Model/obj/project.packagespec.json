@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/zys/U3DWork/GitWork/KillCard/Server/Model/Server.Model.csproj",
+    "projectName": "Server.Model",
+    "projectPath": "/Users/zys/U3DWork/GitWork/KillCard/Server/Model/Server.Model.csproj",
+    "outputPath": "/Users/zys/U3DWork/GitWork/KillCard/Server/Model/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/zys/U3DWork/GitWork/KillCard/Server/Base/Server.Base.csproj": {
+            "projectPath": "/Users/zys/U3DWork/GitWork/KillCard/Server/Base/Server.Base.csproj"
+          },
+          "/Users/zys/U3DWork/GitWork/KillCard/Server/ThirdParty/MongodbDriver/DotNetCoreDriver/MongoDB.Bson/MongoDB.Bson.csproj": {
+            "projectPath": "/Users/zys/U3DWork/GitWork/KillCard/Server/ThirdParty/MongodbDriver/DotNetCoreDriver/MongoDB.Bson/MongoDB.Bson.csproj"
+          },
+          "/Users/zys/U3DWork/GitWork/KillCard/Server/ThirdParty/MongodbDriver/DotNetCoreDriver/MongoDB.Driver.Core/MongoDB.Driver.Core.csproj": {
+            "projectPath": "/Users/zys/U3DWork/GitWork/KillCard/Server/ThirdParty/MongodbDriver/DotNetCoreDriver/MongoDB.Driver.Core/MongoDB.Driver.Core.csproj"
+          },
+          "/Users/zys/U3DWork/GitWork/KillCard/Server/ThirdParty/MongodbDriver/DotNetCoreDriver/MongoDB.Driver/MongoDB.Driver.csproj": {
+            "projectPath": "/Users/zys/U3DWork/GitWork/KillCard/Server/ThirdParty/MongodbDriver/DotNetCoreDriver/MongoDB.Driver/MongoDB.Driver.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "CommandLineParser": {
+          "target": "Package",
+          "version": "2.1.1-beta"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "10.0.3"
+        },
+        "SharpZipLib": {
+          "target": "Package",
+          "version": "1.0.0-alpha2"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

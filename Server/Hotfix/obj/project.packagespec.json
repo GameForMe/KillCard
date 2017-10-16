@@ -1,0 +1,41 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/zys/U3DWork/GitWork/KillCard/Server/Hotfix/Server.Hotfix.csproj",
+    "projectName": "Server.Hotfix",
+    "projectPath": "/Users/zys/U3DWork/GitWork/KillCard/Server/Hotfix/Server.Hotfix.csproj",
+    "outputPath": "/Users/zys/U3DWork/GitWork/KillCard/Server/Hotfix/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/zys/U3DWork/GitWork/KillCard/Server/Base/Server.Base.csproj": {
+            "projectPath": "/Users/zys/U3DWork/GitWork/KillCard/Server/Base/Server.Base.csproj"
+          },
+          "/Users/zys/U3DWork/GitWork/KillCard/Server/Model/Server.Model.csproj": {
+            "projectPath": "/Users/zys/U3DWork/GitWork/KillCard/Server/Model/Server.Model.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

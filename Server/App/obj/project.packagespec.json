@@ -1,0 +1,52 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/zys/U3DWork/GitWork/KillCard/Server/App/Server.App.csproj",
+    "projectName": "Server.App",
+    "projectPath": "/Users/zys/U3DWork/GitWork/KillCard/Server/App/Server.App.csproj",
+    "outputPath": "/Users/zys/U3DWork/GitWork/KillCard/Server/App/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/zys/U3DWork/GitWork/KillCard/Server/Model/Server.Model.csproj": {
+            "projectPath": "/Users/zys/U3DWork/GitWork/KillCard/Server/Model/Server.Model.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "NLog": {
+          "target": "Package",
+          "version": "5.0.0-beta11"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  },
+  "runtimes": {
+    "win": {
+      "#import": []
+    },
+    "win-x64": {
+      "#import": []
+    },
+    "win-x86": {
+      "#import": []
+    }
+  }
+}
